@@ -4,7 +4,7 @@ This is a simple basket app made with React and TypeScript.
 
 ## Demo
 
-The project is deployed at [https://gn-simple-basket.netlify.app/](https://https://gn-simple-basket.netlify.app/).
+The project is deployed at [https://gn-simple-basket.netlify.app/](https://gn-simple-basket.netlify.app/).
 
 ## Local usage
 
