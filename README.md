@@ -12,7 +12,7 @@ After downloading/cloning the project follow these steps:
 
 - Create a file `.env` using `.env.example`, replace `YOUR_OPENAI_API_KEY` with your API key from your account [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)
 
-  Run the following commands:
+Run the following commands:
 
 - `npm install`
 - `npm start`
